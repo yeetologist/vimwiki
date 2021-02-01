@@ -1,0 +1,6 @@
+1. [[Atomic Habits]]
+2. [[How To Win Friends And Influence People]]
+3. [[Man's Search for Meaning]]
+4. [[Never Split the Difference: Negotiating As If Your Life Depended On It]]
+5. [[The 48 Laws of Power]]
+6. [[12 Rules for Life: An Antidote to Chaos]]

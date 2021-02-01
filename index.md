@@ -1,12 +1,13 @@
 === Note ===
 
-== Misc ==
-* [Todo](Todo Lists)
+=== Misc ==
 * [Syntax](Vimwiki Syntax)
 
-== Finances ==
-* [Coffeezilla](Youtube)
-* [Books](Books Recommendation)
-
-== Linux ==
+=== Linux ===
 * [Command](Command)
+
+=== Books Review ===
+* [Self help](Self-help)
+* [Novel](Novel)
+* [Finances](Finances)
+* [Tips](Tips)
